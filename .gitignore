@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Embedding cache (large binary, regenerates automatically)
+data/embeddings_cache.npy
+data/embeddings_ids.json
+
+# PDF plan doc (not part of the public project)
+*.pdf
+
+# Virtual environments
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db

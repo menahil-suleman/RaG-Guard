@@ -1,0 +1,282 @@
+[
+  {
+    "chunk_id": "doc_hypertension__intro",
+    "doc_id": "doc_hypertension",
+    "title": "Hypertension Management Guidelines",
+    "section": "intro",
+    "text": "Hypertension, commonly known as high blood pressure, is defined as a sustained\nsystolic blood pressure of 130 mmHg or higher, or a diastolic blood pressure of\n80 mmHg or higher, according to the 2017 ACC/AHA guidelines.  It is one of the\nmost prevalent cardiovascular risk factors globally and a leading cause of\nstroke, myocardial infarction, and chronic kidney disease."
+  },
+  {
+    "chunk_id": "doc_hypertension__lifestyle",
+    "doc_id": "doc_hypertension",
+    "title": "Hypertension Management Guidelines",
+    "section": "lifestyle",
+    "text": "First-line non-pharmacological interventions for hypertension include the DASH\ndiet (Dietary Approaches to Stop Hypertension), which emphasises fruits,\nvegetables, whole grains, and low-fat dairy while limiting sodium intake to\nunder 2,300 mg per day.  Regular aerobic exercise — at least 150 minutes of\nmoderate-intensity activity per week — can reduce systolic pressure by 4–9 mmHg.\nLimiting alcohol consumption to no more than one drink per day for women and two\nfor men also contributes to blood pressure reduction."
+  },
+  {
+    "chunk_id": "doc_hypertension__medications",
+    "doc_id": "doc_hypertension",
+    "title": "Hypertension Management Guidelines",
+    "section": "medications",
+    "text": "Pharmacological treatment typically starts with a thiazide diuretic, an\nACE inhibitor, an angiotensin II receptor blocker (ARB), or a calcium channel\nblocker (CCB).  The choice depends on patient comorbidities: ACE inhibitors and\nARBs are preferred in patients with diabetes or chronic kidney disease because\nof their nephroprotective effects.  Beta-blockers are reserved for patients with\nconcurrent coronary artery disease or heart failure.  Combination therapy with\ntwo agents from different classes is often required to achieve target blood\npressure below 130/80 mmHg."
+  },
+  {
+    "chunk_id": "doc_hypertension__monitoring",
+    "doc_id": "doc_hypertension",
+    "title": "Hypertension Management Guidelines",
+    "section": "monitoring",
+    "text": "Patients on antihypertensive therapy should have blood pressure checked at\nevery clinical visit, with home monitoring encouraged between visits.\nSelf-monitoring devices should be validated and calibrated annually.\nAmbulatory blood pressure monitoring (ABPM) is recommended when white-coat\nhypertension or masked hypertension is suspected.  Laboratory monitoring\nincludes serum creatinine, electrolytes, and fasting glucose at baseline and\nannually, with more frequent checks when adding or adjusting ACE inhibitors\nor diuretics due to the risk of hyperkalaemia and renal impairment."
+  },
+  {
+    "chunk_id": "doc_diabetes__diagnosis",
+    "doc_id": "doc_diabetes",
+    "title": "Type 2 Diabetes: Diagnosis, Management, and Monitoring",
+    "section": "diagnosis",
+    "text": "Type 2 diabetes mellitus is diagnosed when fasting plasma glucose reaches\n126 mg/dL (7.0 mmol/L) or more, when the 2-hour glucose value on an oral\nglucose tolerance test (OGTT) is 200 mg/dL (11.1 mmol/L) or more, or when\nHbA1c is 6.5% or above.  A single abnormal result should be confirmed on a\nrepeat test unless symptoms of hyperglycaemia are present.  Pre-diabetes is\ndefined as fasting glucose of 100–125 mg/dL or HbA1c of 5.7–6.4%."
+  },
+  {
+    "chunk_id": "doc_diabetes__glycaemic_targets",
+    "doc_id": "doc_diabetes",
+    "title": "Type 2 Diabetes: Diagnosis, Management, and Monitoring",
+    "section": "glycaemic_targets",
+    "text": "The primary glycaemic target for most non-pregnant adults with type 2 diabetes\nis an HbA1c below 7.0%, corresponding to an estimated average glucose of\napproximately 154 mg/dL.  Less stringent targets of HbA1c below 8.0% are\nappropriate for older adults with multiple comorbidities, limited life\nexpectancy, or history of severe hypoglycaemia.  More stringent targets below\n6.5% may be considered in younger patients with short disease duration who can\nachieve them without significant hypoglycaemia."
+  },
+  {
+    "chunk_id": "doc_diabetes__medications_dm",
+    "doc_id": "doc_diabetes",
+    "title": "Type 2 Diabetes: Diagnosis, Management, and Monitoring",
+    "section": "medications_dm",
+    "text": "Metformin remains the preferred initial pharmacological agent for type 2\ndiabetes because of its efficacy, safety profile, low cost, and potential\ncardiovascular benefits.  When metformin is insufficient or contraindicated,\nadditional agents are chosen based on comorbidities: GLP-1 receptor agonists\nand SGLT-2 inhibitors are preferred for patients with established cardiovascular\ndisease, heart failure, or chronic kidney disease.  Sulfonylureas and basal\ninsulin remain options when cost is a primary concern.  DPP-4 inhibitors offer\na weight-neutral option with minimal hypoglycaemia risk."
+  },
+  {
+    "chunk_id": "doc_diabetes__monitoring_dm",
+    "doc_id": "doc_diabetes",
+    "title": "Type 2 Diabetes: Diagnosis, Management, and Monitoring",
+    "section": "monitoring_dm",
+    "text": "Self-monitoring of blood glucose (SMBG) frequency should be individualised.\nPatients on insulin require daily monitoring, typically before meals and at\nbedtime.  Continuous glucose monitoring (CGM) is increasingly recommended\nbecause it provides data on glucose variability and time-in-range that HbA1c\nalone cannot capture.  HbA1c should be measured every three months in patients\nnot meeting glycaemic targets and every six months once stable.  Annual\nscreening for microvascular complications includes urine albumin-to-creatinine\nratio, estimated GFR, dilated eye examination, and foot examination."
+  },
+  {
+    "chunk_id": "doc_depression__assessment",
+    "doc_id": "doc_depression",
+    "title": "Depression: Clinical Assessment and Treatment",
+    "section": "assessment",
+    "text": "Major depressive disorder (MDD) is characterised by at least five of the\nfollowing symptoms present for two or more weeks: depressed mood, loss of\ninterest or pleasure (anhedonia), significant weight change, insomnia or\nhypersomnia, psychomotor agitation or retardation, fatigue, feelings of\nworthlessness or excessive guilt, diminished concentration, and recurrent\nthoughts of death or suicidal ideation.  At least one of the symptoms must be\ndepressed mood or anhedonia.  Standardised tools such as the PHQ-9 are\nvalidated for both screening and severity monitoring."
+  },
+  {
+    "chunk_id": "doc_depression__psychotherapy",
+    "doc_id": "doc_depression",
+    "title": "Depression: Clinical Assessment and Treatment",
+    "section": "psychotherapy",
+    "text": "Cognitive behavioural therapy (CBT) is the most extensively studied\npsychotherapeutic intervention for depression and is considered first-line\ntreatment for mild-to-moderate MDD.  CBT targets maladaptive thought patterns\nand behavioural avoidance cycles.  Behavioural activation, a component of CBT,\nfocuses specifically on scheduling rewarding activities to counteract\nwithdrawal.  Interpersonal therapy (IPT) is equally effective and focuses on\nimproving communication patterns and interpersonal relationships.  For\nmoderate-to-severe depression, combined pharmacotherapy and psychotherapy\nproduces better outcomes than either treatment alone."
+  },
+  {
+    "chunk_id": "doc_depression__antidepressants",
+    "doc_id": "doc_depression",
+    "title": "Depression: Clinical Assessment and Treatment",
+    "section": "antidepressants",
+    "text": "Selective serotonin reuptake inhibitors (SSRIs) are the first-line\npharmacological treatment for MDD because of their favourable side-effect\nprofile relative to older antidepressants.  Commonly prescribed SSRIs include\nsertraline, escitalopram, and fluoxetine.  SNRIs such as venlafaxine and\nduloxetine are preferred when comorbid anxiety or chronic pain is present.\nResponse is assessed at 4–8 weeks; an adequate trial is defined as 6–8 weeks\nat therapeutic dosage.  If partial response is observed, dose optimisation or\naugmentation with bupropion, lithium, or an atypical antipsychotic is considered\nbefore switching agents."
+  },
+  {
+    "chunk_id": "doc_depression__suicide_risk",
+    "doc_id": "doc_depression",
+    "title": "Depression: Clinical Assessment and Treatment",
+    "section": "suicide_risk",
+    "text": "All patients with depression should be screened for suicidal ideation at every\nvisit using direct questioning.  The Columbia Suicide Severity Rating Scale\n(C-SSRS) stratifies risk into ideation and behaviour categories.  Risk factors\nfor completed suicide include prior attempt, male gender, older age, social\nisolation, access to lethal means, comorbid substance use, and hopelessness.\nPatients with active suicidal ideation with a plan or intent require immediate\nsafety assessment, which may include voluntary or involuntary hospitalisation,\nremoval of access to means, and intensive outpatient follow-up."
+  },
+  {
+    "chunk_id": "doc_asthma__pathophysiology",
+    "doc_id": "doc_asthma",
+    "title": "Asthma: Diagnosis and Stepwise Management",
+    "section": "pathophysiology",
+    "text": "Asthma is a chronic inflammatory airway disease characterised by variable and\nreversible airflow obstruction, bronchial hyperresponsiveness, and airway\nremodelling.  The inflammatory process is predominantly eosinophilic in\nallergic asthma, driven by Th2-mediated immune responses involving IgE, IL-4,\nIL-5, and IL-13.  Non-allergic asthma may involve neutrophilic or paucigranulocytic\ninflammation.  Triggers include allergens, respiratory infections, exercise,\ncold air, irritants such as smoke, and non-steroidal anti-inflammatory drugs\n(NSAIDs) in aspirin-exacerbated respiratory disease."
+  },
+  {
+    "chunk_id": "doc_asthma__diagnosis_asthma",
+    "doc_id": "doc_asthma",
+    "title": "Asthma: Diagnosis and Stepwise Management",
+    "section": "diagnosis_asthma",
+    "text": "Diagnosis of asthma requires a history of variable respiratory symptoms —\nwheeze, shortness of breath, chest tightness, and cough — and confirmation of\nvariable expiratory airflow limitation by spirometry.  A post-bronchodilator\nincrease in FEV1 of at least 12% and 200 mL confirms reversibility.\nBronchial provocation testing with methacholine is used when spirometry is\nnormal but asthma is still suspected.  Fractional exhaled nitric oxide (FeNO)\nabove 40 ppb supports eosinophilic airway inflammation."
+  },
+  {
+    "chunk_id": "doc_asthma__treatment_asthma",
+    "doc_id": "doc_asthma",
+    "title": "Asthma: Diagnosis and Stepwise Management",
+    "section": "treatment_asthma",
+    "text": "The stepwise approach to asthma management begins with as-needed low-dose\ninhaled corticosteroid (ICS) combined with a fast-acting bronchodilator (SABA\nor formoterol) at Step 1.  Regular low-dose ICS is added at Step 2, progressing\nto medium-dose ICS or ICS plus a long-acting beta-agonist (LABA) at Step 3.\nSteps 4 and 5 involve high-dose ICS/LABA combinations, tiotropium add-on, and\nbiologic therapies targeting IgE (omalizumab), IL-5 (mepolizumab, reslizumab),\nor the IL-4/IL-13 receptor (dupilumab) for severe uncontrolled asthma."
+  },
+  {
+    "chunk_id": "doc_asthma__exacerbation",
+    "doc_id": "doc_asthma",
+    "title": "Asthma: Diagnosis and Stepwise Management",
+    "section": "exacerbation",
+    "text": "Acute asthma exacerbations are classified as mild, moderate, severe, or\nlife-threatening based on peak flow, oxygen saturation, use of accessory\nmuscles, and ability to speak.  Initial treatment includes high-flow oxygen to\nmaintain SpO2 above 94%, repeated doses of inhaled SABA every 20 minutes,\nsystemic corticosteroids (prednisolone 40–50 mg orally or hydrocortisone IV),\nand ipratropium bromide in severe cases.  Patients with life-threatening\nfeatures — silent chest, cyanosis, bradycardia, or exhaustion — require\nimmediate ICU admission and may need non-invasive or mechanical ventilation."
+  },
+  {
+    "chunk_id": "doc_nutrition__macronutrients",
+    "doc_id": "doc_nutrition",
+    "title": "Clinical Nutrition and Dietary Assessment",
+    "section": "macronutrients",
+    "text": "The three macronutrients — carbohydrates, proteins, and fats — provide the\nbody's energy substrate.  Carbohydrates should constitute 45–65% of total\ncaloric intake, proteins 10–35%, and fats 20–35%.  Dietary fibre, though not\ncaloric, is classified alongside carbohydrates and adults should consume a\nminimum of 25–38 grams per day from whole grains, legumes, fruits, and\nvegetables.  Saturated fat intake should be kept below 10% of total calories\nto reduce cardiovascular risk, with trans fats minimised as much as possible."
+  },
+  {
+    "chunk_id": "doc_nutrition__micronutrients",
+    "doc_id": "doc_nutrition",
+    "title": "Clinical Nutrition and Dietary Assessment",
+    "section": "micronutrients",
+    "text": "Key micronutrients frequently deficient in clinical populations include iron,\nvitamin D, vitamin B12, folate, calcium, and zinc.  Iron-deficiency anaemia is\nthe most common nutritional deficiency worldwide, particularly in women of\nreproductive age, young children, and patients with chronic inflammatory\nconditions.  Vitamin D deficiency is prevalent in populations with limited\nsun exposure and is associated with bone disease, immune dysfunction, and\ncardiovascular risk.  Vitamin B12 deficiency causes megaloblastic anaemia and\nsubacute combined degeneration of the spinal cord and must be distinguished\nfrom folate deficiency by measuring methylmalonic acid and homocysteine levels."
+  },
+  {
+    "chunk_id": "doc_nutrition__malnutrition_screening",
+    "doc_id": "doc_nutrition",
+    "title": "Clinical Nutrition and Dietary Assessment",
+    "section": "malnutrition_screening",
+    "text": "Malnutrition screening should be performed on all hospitalised patients using\na validated tool such as the Malnutrition Universal Screening Tool (MUST) or\nthe Nutritional Risk Screening 2002 (NRS-2002).  MUST incorporates BMI, recent\nunintentional weight loss percentage, and acute disease effect.  Patients at\nmedium or high risk should receive a full dietitian assessment, personalised\nnutritional goals, and documented monitoring.  Enteral nutrition via nasogastric\nor nasojejunal tube is preferred over parenteral nutrition when the\ngastrointestinal tract is functional."
+  },
+  {
+    "chunk_id": "doc_nutrition__obesity",
+    "doc_id": "doc_nutrition",
+    "title": "Clinical Nutrition and Dietary Assessment",
+    "section": "obesity",
+    "text": "Obesity is defined as a body mass index (BMI) of 30 kg/m² or above.  Class I\nobesity covers BMI 30–34.9, Class II 35–39.9, and Class III (severe) 40 and\nabove.  Management combines dietary intervention, increased physical activity,\nbehavioural therapy, and where indicated, pharmacotherapy or bariatric surgery.\nCaloric restriction producing a deficit of 500–750 kcal per day typically\nyields 0.5–0.75 kg of weight loss per week.  GLP-1 receptor agonists such as\nsemaglutide and tirzepatide have demonstrated significant weight loss efficacy\nin clinical trials and are approved for chronic weight management."
+  },
+  {
+    "chunk_id": "doc_sleep__sleep_physiology",
+    "doc_id": "doc_sleep",
+    "title": "Sleep Disorders: Assessment and Management",
+    "section": "sleep_physiology",
+    "text": "Normal adult sleep consists of non-REM (NREM) and REM cycles repeating\napproximately every 90 minutes.  NREM sleep is divided into three stages:\nN1 (light sleep), N2 (light-to-moderate sleep with sleep spindles and K-complexes),\nand N3 (slow-wave or deep sleep critical for physical restoration and memory\nconsolidation).  REM sleep, characterised by rapid eye movements and vivid\ndreaming, is essential for emotional processing and cognitive function.  Most\nadults require 7–9 hours of sleep per night, with total sleep time decreasing\nwith age."
+  },
+  {
+    "chunk_id": "doc_sleep__insomnia",
+    "doc_id": "doc_sleep",
+    "title": "Sleep Disorders: Assessment and Management",
+    "section": "insomnia",
+    "text": "Insomnia disorder is diagnosed when difficulty initiating or maintaining sleep,\nor early morning awakening, causes significant distress or functional impairment\nand occurs at least three nights per week for three or more months.  Acute\nsituational insomnia resolves with removal of the precipitating stressor.\nCognitive behavioural therapy for insomnia (CBT-I) is the recommended\nfirst-line treatment regardless of insomnia duration, comprising sleep\nrestriction therapy, stimulus control, relaxation training, and cognitive\nrestructuring.  Pharmacological treatment with low-dose doxepin, melatonin\nreceptor agonists, or dual orexin receptor antagonists (DORAs) may be used\nas short-term adjuncts."
+  },
+  {
+    "chunk_id": "doc_sleep__sleep_apnoea",
+    "doc_id": "doc_sleep",
+    "title": "Sleep Disorders: Assessment and Management",
+    "section": "sleep_apnoea",
+    "text": "Obstructive sleep apnoea (OSA) is characterised by repetitive partial or\ncomplete upper airway collapse during sleep, producing apnoeas and hypopnoeas.\nDiagnosis requires overnight polysomnography or home sleep apnoea testing;\nOSA is defined by an apnoea-hypopnoea index (AHI) of five or more events per\nhour with associated symptoms, or AHI of fifteen or more regardless of symptoms.\nContinuous positive airway pressure (CPAP) is the primary treatment; adherence\nrequires at least four hours of use on 70% of nights.  Mandibular advancement\ndevices are an alternative for mild-to-moderate OSA or CPAP-intolerant patients.\nPositional therapy and weight loss are adjunctive strategies."
+  },
+  {
+    "chunk_id": "doc_sleep__narcolepsy",
+    "doc_id": "doc_sleep",
+    "title": "Sleep Disorders: Assessment and Management",
+    "section": "narcolepsy",
+    "text": "Narcolepsy type 1 is characterised by excessive daytime sleepiness and\ncataplexy — sudden loss of muscle tone triggered by emotion — and is caused\nby the autoimmune destruction of hypothalamic hypocretin-producing neurons.\nType 2 narcolepsy presents with daytime sleepiness without cataplexy and\nhas normal or borderline cerebrospinal fluid hypocretin levels.\nDiagnosis is confirmed by nocturnal polysomnography followed by the multiple\nsleep latency test (MSLT), demonstrating a mean sleep onset latency of less\nthan eight minutes and two or more sleep-onset REM periods.  Treatment includes\nmodafinil or armodafinil for sleepiness, sodium oxybate for both sleepiness and\ncataplexy, and venlafaxine or fluoxetine for isolated cataplexy."
+  },
+  {
+    "chunk_id": "doc_ckd__staging",
+    "doc_id": "doc_ckd",
+    "title": "Chronic Kidney Disease: Staging, Progression, and Management",
+    "section": "staging",
+    "text": "Chronic kidney disease (CKD) is defined as structural or functional kidney\nabnormalities present for more than three months.  The KDIGO classification\nuses two dimensions: GFR category (G1–G5) and albuminuria category (A1–A3).\nG1 represents GFR ≥90 mL/min/1.73 m², G3a is 45–59, G3b is 30–44, G4 is\n15–29, and G5 is <15 mL/min/1.73 m² (kidney failure).  Albuminuria categories\nare A1 (<30 mg/g), A2 (30–300 mg/g, moderately increased), and A3 (>300 mg/g,\nseverely increased).  Both dimensions together predict risk of progression,\ncardiovascular events, and mortality."
+  },
+  {
+    "chunk_id": "doc_ckd__progression",
+    "doc_id": "doc_ckd",
+    "title": "Chronic Kidney Disease: Staging, Progression, and Management",
+    "section": "progression",
+    "text": "The primary drivers of CKD progression are diabetic nephropathy, hypertensive\nnephrosclerosis, and glomerulonephritis.  Modifiable risk factors include\nuncontrolled hyperglycaemia, uncontrolled hypertension, proteinuria, smoking,\nobesity, and nephrotoxin exposure.  The rate of GFR decline can be estimated\nby measuring serum creatinine and cystatin C regularly; a decline of more than\n5 mL/min/1.73 m² per year indicates rapid progression.  SGLT-2 inhibitors have\ndemonstrated significant nephroprotective effects in CKD patients with and\nwithout diabetes, reducing the risk of kidney failure and cardiovascular events."
+  },
+  {
+    "chunk_id": "doc_ckd__anaemia_ckd",
+    "doc_id": "doc_ckd",
+    "title": "Chronic Kidney Disease: Staging, Progression, and Management",
+    "section": "anaemia_ckd",
+    "text": "Anaemia is a common complication of CKD, primarily due to reduced erythropoietin\nproduction by the diseased kidney, and is defined as haemoglobin below 13 g/dL\nin men and below 12 g/dL in women.  Iron deficiency must be corrected before\ninitiating erythropoiesis-stimulating agents (ESAs).  Intravenous iron is\npreferred over oral iron in dialysis patients due to better absorption and\nefficacy.  Haemoglobin targets when using ESAs should not exceed 11.5 g/dL\nto avoid increased risk of stroke and cardiovascular events demonstrated in\ntrials using higher targets."
+  },
+  {
+    "chunk_id": "doc_ckd__dialysis",
+    "doc_id": "doc_ckd",
+    "title": "Chronic Kidney Disease: Staging, Progression, and Management",
+    "section": "dialysis",
+    "text": "Renal replacement therapy (RRT) includes haemodialysis, peritoneal dialysis,\nand kidney transplantation.  Haemodialysis is typically performed three times\nper week for four hours per session at a dialysis centre or home.  Peritoneal\ndialysis uses the peritoneal membrane as a filter and can be performed as\ncontinuous ambulatory peritoneal dialysis (CAPD) or automated peritoneal\ndialysis (APD) overnight.  Kidney transplantation offers the best survival\noutcomes and quality of life and is preferred for eligible patients.\nPre-emptive transplantation (before dialysis initiation) is associated with\nbetter graft survival."
+  },
+  {
+    "chunk_id": "doc_cardio__risk_calc",
+    "doc_id": "doc_cardio",
+    "title": "Cardiovascular Risk Assessment and Prevention",
+    "section": "risk_calc",
+    "text": "Cardiovascular risk is estimated using validated tools such as the Pooled\nCohort Equations (PCE), which calculate 10-year risk of atherosclerotic\ncardiovascular disease (ASCVD) events — myocardial infarction and stroke.\nInputs include age, sex, race, total cholesterol, HDL cholesterol, systolic\nblood pressure, blood pressure treatment status, diabetes, and smoking.\nA 10-year ASCVD risk below 5% is considered low, 5–7.4% borderline, 7.5–19.9%\nintermediate, and 20% or above high.  The risk-enhancing factors such as\nfamily history of premature ASCVD, LDL ≥160 mg/dL, chronic kidney disease,\nand inflammatory conditions can shift borderline patients toward statin therapy."
+  },
+  {
+    "chunk_id": "doc_cardio__lipid_management",
+    "doc_id": "doc_cardio",
+    "title": "Cardiovascular Risk Assessment and Prevention",
+    "section": "lipid_management",
+    "text": "Statin therapy is the cornerstone of lipid-lowering treatment for cardiovascular\nrisk reduction.  High-intensity statins (atorvastatin 40–80 mg or rosuvastatin\n20–40 mg) reduce LDL by at least 50% and are recommended for patients with\nestablished ASCVD (secondary prevention) and high-risk primary prevention.\nModerate-intensity statins reduce LDL by 30–49%.  For patients who do not\nachieve LDL targets on maximum tolerated statin therapy, ezetimibe is added\nfirst, followed by PCSK9 inhibitors (evolocumab, alirocumab) if further LDL\nreduction is needed.  LDL target for very high-risk patients is below 55 mg/dL."
+  },
+  {
+    "chunk_id": "doc_cardio__antiplatelet",
+    "doc_id": "doc_cardio",
+    "title": "Cardiovascular Risk Assessment and Prevention",
+    "section": "antiplatelet",
+    "text": "Aspirin 75–100 mg daily is recommended for all patients with established ASCVD\nas secondary prevention, indefinitely unless contraindicated.  Dual antiplatelet\ntherapy (DAPT) with aspirin plus a P2Y12 inhibitor (clopidogrel, ticagrelor, or\nprasugrel) is used for 12 months following acute coronary syndrome (ACS) or\npercutaneous coronary intervention (PCI) with drug-eluting stent.  Aspirin for\nprimary prevention is no longer routinely recommended because the bleeding risk\ngenerally outweighs the cardiovascular benefit in patients without established\ndisease, particularly those over 70 years of age."
+  },
+  {
+    "chunk_id": "doc_cardio__heart_failure",
+    "doc_id": "doc_cardio",
+    "title": "Cardiovascular Risk Assessment and Prevention",
+    "section": "heart_failure",
+    "text": "Heart failure is classified by left ventricular ejection fraction (LVEF):\nHFrEF (reduced, LVEF <40%), HFmrEF (mildly reduced, 40–49%), and HFpEF\n(preserved, ≥50%).  Guideline-directed medical therapy (GDMT) for HFrEF\ncomprises four drug classes shown to reduce mortality: ACE inhibitors or ARBs\n(or sacubitril/valsartan), beta-blockers, mineralocorticoid receptor antagonists,\nand SGLT-2 inhibitors.  Device therapy includes implantable cardioverter-\ndefibrillators (ICD) for patients with LVEF ≤35% at least three months after\noptimising GDMT, and cardiac resynchronisation therapy (CRT) for those with\nLBBB and QRS ≥150 ms."
+  },
+  {
+    "chunk_id": "doc_pharmacology__cyp450",
+    "doc_id": "doc_pharmacology",
+    "title": "Clinically Significant Drug Interactions",
+    "section": "cyp450",
+    "text": "The cytochrome P450 (CYP450) enzyme system is responsible for the metabolism\nof approximately 70–80% of clinically used drugs.  CYP3A4 is the most abundant\nisoenzyme and metabolises drugs such as statins, calcium channel blockers,\nbenzodiazepines, and antiretrovirals.  Strong CYP3A4 inhibitors — including\nazole antifungals (ketoconazole, itraconazole), macrolide antibiotics\n(clarithromycin, erythromycin), and grapefruit juice — increase plasma\nconcentrations of CYP3A4 substrates, raising the risk of toxicity.\nStrong CYP3A4 inducers — rifampicin, carbamazepine, phenytoin, St John's wort —\naccelerate metabolism and can reduce efficacy of substrate drugs."
+  },
+  {
+    "chunk_id": "doc_pharmacology__warfarin",
+    "doc_id": "doc_pharmacology",
+    "title": "Clinically Significant Drug Interactions",
+    "section": "warfarin",
+    "text": "Warfarin has a narrow therapeutic index and is subject to numerous clinically\nsignificant drug interactions.  Drugs that potentiate warfarin's anticoagulant\neffect (raising INR) include amiodarone, fluconazole, metronidazole, fluoxetine,\nand NSAIDs.  Drugs that reduce warfarin efficacy (lowering INR) include\nrifampicin, carbamazepine, and St John's wort.  High-vitamin-K foods such as\ngreen leafy vegetables can also reduce INR; patients should be counselled to\nmaintain a consistent dietary vitamin K intake rather than avoiding these foods\nentirely.  INR should be rechecked within one week of starting, stopping, or\nchanging the dose of any interacting drug."
+  },
+  {
+    "chunk_id": "doc_pharmacology__serotonin_syndrome",
+    "doc_id": "doc_pharmacology",
+    "title": "Clinically Significant Drug Interactions",
+    "section": "serotonin_syndrome",
+    "text": "Serotonin syndrome is a potentially life-threatening drug interaction resulting\nfrom excess serotonergic activity in the central and peripheral nervous systems.\nIt is characterised by the clinical triad of mental status changes (agitation,\nconfusion), autonomic instability (hyperthermia, tachycardia, diaphoresis,\nhypertension), and neuromuscular abnormalities (tremor, clonus, hyperreflexia).\nHigh-risk drug combinations include SSRIs or SNRIs with MAO inhibitors, tramadol,\nlinezolid, or methylene blue.  Concomitant use of a MAOI with any serotonergic\nagent is absolutely contraindicated; a washout period of at least 14 days is\nrequired when switching between SSRIs and MAOIs."
+  },
+  {
+    "chunk_id": "doc_pharmacology__qt_prolongation",
+    "doc_id": "doc_pharmacology",
+    "title": "Clinically Significant Drug Interactions",
+    "section": "qt_prolongation",
+    "text": "QT prolongation and the associated risk of torsades de pointes is a serious\nadverse effect of many drug classes including antipsychotics (haloperidol,\nquetiapine), antiarrhythmics (amiodarone, sotalol), antibiotics (azithromycin,\nciprofloxacin), and antihistamines.  Risk is increased by hypokalaemia,\nhypomagnesaemia, female sex, bradycardia, and congenital long-QT syndrome.\nA corrected QT interval (QTc) exceeding 500 ms is generally considered the\nthreshold at which the risk of arrhythmia is unacceptable.  The CredibleMeds\ndatabase provides an up-to-date, evidence-based risk classification for drugs\nand QT prolongation."
+  },
+  {
+    "chunk_id": "doc_preventive__cancer_screening",
+    "doc_id": "doc_preventive",
+    "title": "Preventive Care and Screening Recommendations",
+    "section": "cancer_screening",
+    "text": "Colorectal cancer screening is recommended for average-risk adults starting at\nage 45.  Options include colonoscopy every 10 years, annual high-sensitivity\nstool-based tests (FIT or Cologuard), or CT colonography every 5 years.\nBreast cancer screening with annual mammography is recommended for women aged\n40–74; those with BRCA1/2 mutations or strong family history should begin\nearlier and consider MRI alongside mammography.  Cervical cancer screening\nusing Pap smear every 3 years or co-testing with HPV every 5 years is\nrecommended from age 21 until age 65.  Lung cancer screening with annual\nlow-dose CT is recommended for adults 50–80 years with a 20 pack-year smoking\nhistory who currently smoke or quit within the past 15 years."
+  },
+  {
+    "chunk_id": "doc_preventive__vaccinations",
+    "doc_id": "doc_preventive",
+    "title": "Preventive Care and Screening Recommendations",
+    "section": "vaccinations",
+    "text": "Core adult vaccinations include annual influenza vaccine, one-time Tdap followed\nby Td booster every 10 years, pneumococcal vaccines (PCV15 or PCV20 with\nPPSV23 as applicable), shingles vaccine (Shingrix two-dose series) for adults\nover 50, and COVID-19 primary series with updated boosters.  The HPV vaccine\nis recommended through age 26 and shared decision-making for ages 27–45.\nMeningococcal vaccines (MenACWY and MenB) are recommended for adolescents,\ncollege freshmen in residence halls, and immunocompromised individuals.\nHepatitis B vaccination is recommended for unvaccinated adults, particularly\nthose at increased risk."
+  },
+  {
+    "chunk_id": "doc_preventive__well_visit",
+    "doc_id": "doc_preventive",
+    "title": "Preventive Care and Screening Recommendations",
+    "section": "well_visit",
+    "text": "Annual well visits should include blood pressure measurement, BMI calculation\nand obesity counselling, fasting lipid panel for adults 21 and older, fasting\nglucose or HbA1c for screening diabetes in overweight adults, depression\nscreening with PHQ-2 or PHQ-9, alcohol misuse screening with AUDIT-C, and\ntobacco use counselling.  Vision and hearing screening are performed at\nclinician discretion based on age and symptoms.  Fall risk assessment is\nrecommended annually for adults over 65, along with functional status review\nand medication reconciliation to identify drugs contributing to fall risk."
+  },
+  {
+    "chunk_id": "doc_preventive__immunocompromised",
+    "doc_id": "doc_preventive",
+    "title": "Preventive Care and Screening Recommendations",
+    "section": "immunocompromised",
+    "text": "Immunocompromised patients — including those on high-dose corticosteroids,\nbiologic therapies, chemotherapy, or with HIV — require modified vaccination\nschedules.  Live vaccines (MMR, varicella, LAIV) are generally contraindicated\nin severely immunocompromised patients.  Inactivated vaccines are safe but may\nproduce suboptimal immune responses; higher doses or extra doses may be needed.\nPneumococcal and influenza vaccines are especially important in this population\ngiven the elevated risk of serious infection.  HIV-positive patients should\nreceive Pneumovax 23 if CD4 count is above 200 cells/mm³ and should be\nrevaccinated five years later."
+  }
+]

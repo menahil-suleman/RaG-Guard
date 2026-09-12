@@ -1,0 +1,119 @@
+[
+  {
+    "timestamp": "2026-09-12T13:41:53.786897+00:00",
+    "metric_name": "recall@5",
+    "score": 0.6441,
+    "threshold": 0.7,
+    "breach_delta": 0.0559,
+    "configuration": "dense",
+    "scenario": "corrupted"
+  },
+  {
+    "timestamp": "2026-09-12T13:41:53.786897+00:00",
+    "metric_name": "recall@5",
+    "score": 0.6441,
+    "threshold": 0.7,
+    "breach_delta": 0.0559,
+    "event_type": "ALL_CONFIGS_BREACHED",
+    "configuration": "dense",
+    "scenario": "corrupted",
+    "fallback_config": "dense",
+    "fallback_score": 0.6441
+  },
+  {
+    "timestamp": "2026-09-12T13:41:53.786897+00:00",
+    "metric_name": "mrr",
+    "score": 0.6356,
+    "threshold": 0.65,
+    "breach_delta": 0.0144,
+    "configuration": "dense",
+    "scenario": "corrupted"
+  },
+  {
+    "timestamp": "2026-09-12T13:41:53.786897+00:00",
+    "metric_name": "ndcg@5",
+    "score": 0.6378,
+    "threshold": 0.68,
+    "breach_delta": 0.0422,
+    "configuration": "dense",
+    "scenario": "corrupted"
+  },
+  {
+    "timestamp": "2026-09-12T13:41:55.363786+00:00",
+    "metric_name": "recall@5",
+    "score": 0.6441,
+    "threshold": 0.7,
+    "breach_delta": 0.0559,
+    "configuration": "hybrid",
+    "scenario": "corrupted"
+  },
+  {
+    "timestamp": "2026-09-12T13:41:55.363786+00:00",
+    "metric_name": "recall@5",
+    "score": 0.6441,
+    "threshold": 0.7,
+    "breach_delta": 0.0559,
+    "event_type": "ALL_CONFIGS_BREACHED",
+    "configuration": "hybrid",
+    "scenario": "corrupted",
+    "fallback_config": "dense",
+    "fallback_score": 0.6441
+  },
+  {
+    "timestamp": "2026-09-12T13:41:55.363786+00:00",
+    "metric_name": "mrr",
+    "score": 0.6328,
+    "threshold": 0.65,
+    "breach_delta": 0.0172,
+    "configuration": "hybrid",
+    "scenario": "corrupted"
+  },
+  {
+    "timestamp": "2026-09-12T13:41:55.363786+00:00",
+    "metric_name": "ndcg@5",
+    "score": 0.6356,
+    "threshold": 0.68,
+    "breach_delta": 0.0444,
+    "configuration": "hybrid",
+    "scenario": "corrupted"
+  },
+  {
+    "timestamp": "2026-09-12T13:43:57.284258+00:00",
+    "metric_name": "recall@5",
+    "score": 0.6441,
+    "threshold": 0.7,
+    "breach_delta": 0.0559,
+    "configuration": "hybrid_reranked",
+    "scenario": "corrupted"
+  },
+  {
+    "timestamp": "2026-09-12T13:43:57.284258+00:00",
+    "metric_name": "recall@5",
+    "score": 0.6441,
+    "threshold": 0.7,
+    "breach_delta": 0.0559,
+    "event_type": "ALL_CONFIGS_BREACHED",
+    "configuration": "hybrid_reranked",
+    "scenario": "corrupted",
+    "fallback_config": "dense",
+    "fallback_score": 0.6441
+  },
+  {
+    "timestamp": "2026-09-12T13:43:57.284258+00:00",
+    "metric_name": "mrr",
+    "score": 0.6356,
+    "threshold": 0.65,
+    "breach_delta": 0.0144,
+    "configuration": "hybrid_reranked",
+    "scenario": "corrupted"
+  },
+  {
+    "timestamp": "2026-09-12T13:43:57.284258+00:00",
+    "metric_name": "ndcg@5",
+    "score": 0.6378,
+    "threshold": 0.68,
+    "breach_delta": 0.0422,
+    "configuration": "hybrid_reranked",
+    "scenario": "corrupted"
+  }
+]

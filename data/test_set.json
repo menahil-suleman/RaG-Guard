@@ -1,0 +1,415 @@
+[
+  {
+    "query_id": "q000",
+    "query": "What is the definition of hypertension according to ACC/AHA guidelines?",
+    "relevant_chunk_ids": [
+      "doc_hypertension__intro"
+    ]
+  },
+  {
+    "query_id": "q001",
+    "query": "Which dietary approach is recommended to lower blood pressure?",
+    "relevant_chunk_ids": [
+      "doc_hypertension__lifestyle"
+    ]
+  },
+  {
+    "query_id": "q002",
+    "query": "What is the DASH diet and how does it affect blood pressure?",
+    "relevant_chunk_ids": [
+      "doc_hypertension__lifestyle"
+    ]
+  },
+  {
+    "query_id": "q003",
+    "query": "How much can aerobic exercise reduce systolic blood pressure?",
+    "relevant_chunk_ids": [
+      "doc_hypertension__lifestyle"
+    ]
+  },
+  {
+    "query_id": "q004",
+    "query": "When are ACE inhibitors preferred over calcium channel blockers for hypertension?",
+    "relevant_chunk_ids": [
+      "doc_hypertension__medications"
+    ]
+  },
+  {
+    "query_id": "q005",
+    "query": "What is the target blood pressure for patients on antihypertensive therapy?",
+    "relevant_chunk_ids": [
+      "doc_hypertension__medications"
+    ]
+  },
+  {
+    "query_id": "q006",
+    "query": "When is ambulatory blood pressure monitoring recommended?",
+    "relevant_chunk_ids": [
+      "doc_hypertension__monitoring"
+    ]
+  },
+  {
+    "query_id": "q007",
+    "query": "What lab tests should be monitored in patients on ACE inhibitors for hypertension?",
+    "relevant_chunk_ids": [
+      "doc_hypertension__monitoring"
+    ]
+  },
+  {
+    "query_id": "q008",
+    "query": "What HbA1c level confirms a diagnosis of type 2 diabetes?",
+    "relevant_chunk_ids": [
+      "doc_diabetes__diagnosis"
+    ]
+  },
+  {
+    "query_id": "q009",
+    "query": "What is the definition of pre-diabetes based on fasting glucose?",
+    "relevant_chunk_ids": [
+      "doc_diabetes__diagnosis"
+    ]
+  },
+  {
+    "query_id": "q010",
+    "query": "What is the HbA1c target for most non-pregnant adults with type 2 diabetes?",
+    "relevant_chunk_ids": [
+      "doc_diabetes__glycaemic_targets"
+    ]
+  },
+  {
+    "query_id": "q011",
+    "query": "When is a less stringent HbA1c target appropriate for diabetes patients?",
+    "relevant_chunk_ids": [
+      "doc_diabetes__glycaemic_targets"
+    ]
+  },
+  {
+    "query_id": "q012",
+    "query": "Why is metformin the preferred first-line drug for type 2 diabetes?",
+    "relevant_chunk_ids": [
+      "doc_diabetes__medications_dm"
+    ]
+  },
+  {
+    "query_id": "q013",
+    "query": "Which diabetes medications are preferred in patients with heart failure?",
+    "relevant_chunk_ids": [
+      "doc_diabetes__medications_dm"
+    ]
+  },
+  {
+    "query_id": "q014",
+    "query": "What does continuous glucose monitoring measure that HbA1c cannot?",
+    "relevant_chunk_ids": [
+      "doc_diabetes__monitoring_dm"
+    ]
+  },
+  {
+    "query_id": "q015",
+    "query": "How often should HbA1c be measured in stable diabetes patients?",
+    "relevant_chunk_ids": [
+      "doc_diabetes__monitoring_dm"
+    ]
+  },
+  {
+    "query_id": "q016",
+    "query": "What symptoms are required to diagnose major depressive disorder?",
+    "relevant_chunk_ids": [
+      "doc_depression__assessment"
+    ]
+  },
+  {
+    "query_id": "q017",
+    "query": "What is the PHQ-9 used for in depression care?",
+    "relevant_chunk_ids": [
+      "doc_depression__assessment"
+    ]
+  },
+  {
+    "query_id": "q018",
+    "query": "What is cognitive behavioural therapy and how does it treat depression?",
+    "relevant_chunk_ids": [
+      "doc_depression__psychotherapy"
+    ]
+  },
+  {
+    "query_id": "q019",
+    "query": "What is behavioural activation in the context of depression treatment?",
+    "relevant_chunk_ids": [
+      "doc_depression__psychotherapy"
+    ]
+  },
+  {
+    "query_id": "q020",
+    "query": "Which SSRIs are commonly prescribed for major depressive disorder?",
+    "relevant_chunk_ids": [
+      "doc_depression__antidepressants"
+    ]
+  },
+  {
+    "query_id": "q021",
+    "query": "How long does an adequate antidepressant trial last?",
+    "relevant_chunk_ids": [
+      "doc_depression__antidepressants"
+    ]
+  },
+  {
+    "query_id": "q022",
+    "query": "What risk factors are associated with completed suicide in depressed patients?",
+    "relevant_chunk_ids": [
+      "doc_depression__suicide_risk"
+    ]
+  },
+  {
+    "query_id": "q023",
+    "query": "What is the Columbia Suicide Severity Rating Scale used for?",
+    "relevant_chunk_ids": [
+      "doc_depression__suicide_risk"
+    ]
+  },
+  {
+    "query_id": "q024",
+    "query": "What immune cells and cytokines drive allergic asthma inflammation?",
+    "relevant_chunk_ids": [
+      "doc_asthma__pathophysiology"
+    ]
+  },
+  {
+    "query_id": "q025",
+    "query": "How is reversible airflow obstruction confirmed by spirometry in asthma?",
+    "relevant_chunk_ids": [
+      "doc_asthma__diagnosis_asthma"
+    ]
+  },
+  {
+    "query_id": "q026",
+    "query": "What does a FeNO above 40 ppb indicate in asthma diagnosis?",
+    "relevant_chunk_ids": [
+      "doc_asthma__diagnosis_asthma"
+    ]
+  },
+  {
+    "query_id": "q027",
+    "query": "What biologic therapies are used for severe uncontrolled asthma?",
+    "relevant_chunk_ids": [
+      "doc_asthma__treatment_asthma"
+    ]
+  },
+  {
+    "query_id": "q028",
+    "query": "What is the first-line treatment for an acute severe asthma exacerbation?",
+    "relevant_chunk_ids": [
+      "doc_asthma__exacerbation"
+    ]
+  },
+  {
+    "query_id": "q029",
+    "query": "When should a patient with asthma be admitted to ICU?",
+    "relevant_chunk_ids": [
+      "doc_asthma__exacerbation"
+    ]
+  },
+  {
+    "query_id": "q030",
+    "query": "What percentage of daily calories should come from carbohydrates?",
+    "relevant_chunk_ids": [
+      "doc_nutrition__macronutrients"
+    ]
+  },
+  {
+    "query_id": "q031",
+    "query": "How much dietary fibre should adults consume per day?",
+    "relevant_chunk_ids": [
+      "doc_nutrition__macronutrients"
+    ]
+  },
+  {
+    "query_id": "q032",
+    "query": "What conditions are associated with vitamin D deficiency?",
+    "relevant_chunk_ids": [
+      "doc_nutrition__micronutrients"
+    ]
+  },
+  {
+    "query_id": "q033",
+    "query": "How is vitamin B12 deficiency distinguished from folate deficiency?",
+    "relevant_chunk_ids": [
+      "doc_nutrition__micronutrients"
+    ]
+  },
+  {
+    "query_id": "q034",
+    "query": "What tool is used to screen for malnutrition in hospitalised patients?",
+    "relevant_chunk_ids": [
+      "doc_nutrition__malnutrition_screening"
+    ]
+  },
+  {
+    "query_id": "q035",
+    "query": "Which weight loss medications have been approved for chronic weight management?",
+    "relevant_chunk_ids": [
+      "doc_nutrition__obesity"
+    ]
+  },
+  {
+    "query_id": "q036",
+    "query": "How many REM-NREM cycles occur during a typical night of sleep?",
+    "relevant_chunk_ids": [
+      "doc_sleep__sleep_physiology"
+    ]
+  },
+  {
+    "query_id": "q037",
+    "query": "What is the first-line treatment for chronic insomnia disorder?",
+    "relevant_chunk_ids": [
+      "doc_sleep__insomnia"
+    ]
+  },
+  {
+    "query_id": "q038",
+    "query": "What is CBT-I and what components does it include?",
+    "relevant_chunk_ids": [
+      "doc_sleep__insomnia"
+    ]
+  },
+  {
+    "query_id": "q039",
+    "query": "How is obstructive sleep apnoea diagnosed using AHI criteria?",
+    "relevant_chunk_ids": [
+      "doc_sleep__sleep_apnoea"
+    ]
+  },
+  {
+    "query_id": "q040",
+    "query": "What is the minimum CPAP adherence required for sleep apnoea treatment?",
+    "relevant_chunk_ids": [
+      "doc_sleep__sleep_apnoea"
+    ]
+  },
+  {
+    "query_id": "q041",
+    "query": "What causes narcolepsy type 1 and how is it diagnosed?",
+    "relevant_chunk_ids": [
+      "doc_sleep__narcolepsy"
+    ]
+  },
+  {
+    "query_id": "q042",
+    "query": "How is chronic kidney disease staged using the KDIGO classification?",
+    "relevant_chunk_ids": [
+      "doc_ckd__staging"
+    ]
+  },
+  {
+    "query_id": "q043",
+    "query": "What effect do SGLT-2 inhibitors have on CKD progression?",
+    "relevant_chunk_ids": [
+      "doc_ckd__progression"
+    ]
+  },
+  {
+    "query_id": "q044",
+    "query": "What haemoglobin target should be maintained when using ESAs in CKD?",
+    "relevant_chunk_ids": [
+      "doc_ckd__anaemia_ckd"
+    ]
+  },
+  {
+    "query_id": "q045",
+    "query": "What are the differences between haemodialysis and peritoneal dialysis?",
+    "relevant_chunk_ids": [
+      "doc_ckd__dialysis"
+    ]
+  },
+  {
+    "query_id": "q046",
+    "query": "What 10-year ASCVD risk is considered high according to pooled cohort equations?",
+    "relevant_chunk_ids": [
+      "doc_cardio__risk_calc"
+    ]
+  },
+  {
+    "query_id": "q047",
+    "query": "What LDL target is recommended for very high-risk cardiovascular patients?",
+    "relevant_chunk_ids": [
+      "doc_cardio__lipid_management"
+    ]
+  },
+  {
+    "query_id": "q048",
+    "query": "When is dual antiplatelet therapy recommended after a coronary stent?",
+    "relevant_chunk_ids": [
+      "doc_cardio__antiplatelet"
+    ]
+  },
+  {
+    "query_id": "q049",
+    "query": "What four drug classes constitute guideline-directed medical therapy for HFrEF?",
+    "relevant_chunk_ids": [
+      "doc_cardio__heart_failure"
+    ]
+  },
+  {
+    "query_id": "q050",
+    "query": "Which antibiotics inhibit CYP3A4 and can raise statin plasma levels?",
+    "relevant_chunk_ids": [
+      "doc_pharmacology__cyp450"
+    ]
+  },
+  {
+    "query_id": "q051",
+    "query": "What foods can lower INR in patients taking warfarin?",
+    "relevant_chunk_ids": [
+      "doc_pharmacology__warfarin"
+    ]
+  },
+  {
+    "query_id": "q052",
+    "query": "What drug combinations are most likely to cause serotonin syndrome?",
+    "relevant_chunk_ids": [
+      "doc_pharmacology__serotonin_syndrome"
+    ]
+  },
+  {
+    "query_id": "q053",
+    "query": "What QTc threshold indicates an unacceptable risk of arrhythmia?",
+    "relevant_chunk_ids": [
+      "doc_pharmacology__qt_prolongation"
+    ]
+  },
+  {
+    "query_id": "q054",
+    "query": "At what age should average-risk adults start colorectal cancer screening?",
+    "relevant_chunk_ids": [
+      "doc_preventive__cancer_screening"
+    ]
+  },
+  {
+    "query_id": "q055",
+    "query": "What are the criteria for lung cancer screening with low-dose CT?",
+    "relevant_chunk_ids": [
+      "doc_preventive__cancer_screening"
+    ]
+  },
+  {
+    "query_id": "q056",
+    "query": "Which vaccines are recommended for adults over 50?",
+    "relevant_chunk_ids": [
+      "doc_preventive__vaccinations"
+    ]
+  },
+  {
+    "query_id": "q057",
+    "query": "Are live vaccines safe in immunocompromised patients?",
+    "relevant_chunk_ids": [
+      "doc_preventive__immunocompromised"
+    ]
+  },
+  {
+    "query_id": "q058",
+    "query": "What screening tests are included in an annual well visit for adults?",
+    "relevant_chunk_ids": [
+      "doc_preventive__well_visit"
+    ]
+  }
+]
